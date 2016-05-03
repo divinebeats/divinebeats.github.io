@@ -1,0 +1,10 @@
+<div class="dropdown">
+ -  <button onclick="myFunction()" class="dropbtn">Download From Here To Support Us</button>
+ -  <div id="myDropdown" class="dropdown-content">
+ -  	<a href="#">Thanks For Using Divine Beats</a>
+ -    <a href="http://sh.st/IUiMo">DivineBeats Dolby Atmos V6.0 Sonorous Hermes Edition</a>
+ -     <a href="http://sh.st/IUiA2">DivineBeats Dolby Digital+ V6.0 Sonorous Hermes Edition</a>
+ -    <a href="http://sh.st/IUorT">DivineBeats Remover</a>
+ -  	<a href="http://sh.st/IUi65">Fix For Dolby Atmos</a>
+ -  </div>
+ -</div>
